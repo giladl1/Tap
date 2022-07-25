@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrueCaller.iml" filepath="$PROJECT_DIR$/.idea/modules/TrueCaller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrueCaller.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
